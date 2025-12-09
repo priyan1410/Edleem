@@ -817,11 +817,6 @@ footer::before {
     margin: 0 0 0 0;
 }
 
-.highlight {
-    background: linear-gradient(90deg, #39b5fa, #1074ae);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
 .price-container img {
     width: 100%;
