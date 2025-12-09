@@ -31,6 +31,8 @@ function closeMobileMenu() {
     mobileMenuBtn.setAttribute('aria-expanded', 'false');
 }
 
+
+
 // Close menu when clicking overlay
 mobileNavOverlay.addEventListener('click', closeMobileMenu);
 
